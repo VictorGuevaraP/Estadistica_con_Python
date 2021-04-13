@@ -1,0 +1,304 @@
+Edad;Sexo;Dolor.Pecho;Presion.Arterial;Colesterol;Azucar.Sangre;restecg;Frecuencia.Cardiaca;Angina;depresión;pendiente ;Número.vasos ;Objetivo
+63;1;dolor no anginoso;145;233;1;normal;150;No;2.3;Ascendente;0;Si
+37;1;angina atípica;130;250;0;anomalía de la onda;187;No;3.5;Ascendente;0;Si
+41;0;angina típica;130;204;0;normal;172;No;1.4;Descendente;0;Si
+56;1;angina típica;120;236;0;anomalía de la onda;178;No;0.8;Descendente;0;Si
+57;0;asintomático;120;354;0;anomalía de la onda;163;Si;0.6;Descendente;0;Si
+57;1;asintomático;140;192;0;anomalía de la onda;148;No;0.4;Plano;0;Si
+56;0;angina típica;140;294;0;normal;153;No;1.3;Plano;0;Si
+44;1;angina típica;120;263;0;anomalía de la onda;173;No;0;Descendente;0;Si
+52;1;angina atípica;172;199;1;anomalía de la onda;162;No;0.5;Descendente;0;Si
+57;1;angina atípica;150;168;0;anomalía de la onda;174;No;1.6;Descendente;0;Si
+54;1;asintomático;140;239;0;anomalía de la onda;160;No;1.2;Descendente;0;Si
+48;0;angina atípica;130;275;0;anomalía de la onda;139;No;0.2;Descendente;0;Si
+49;1;angina típica;130;266;0;anomalía de la onda;171;No;0.6;Descendente;0;Si
+64;1;dolor no anginoso;110;211;0;normal;144;Si;1.8;Plano;0;Si
+58;0;dolor no anginoso;150;283;1;normal;162;No;1;Descendente;0;Si
+50;0;angina atípica;120;219;0;anomalía de la onda;158;No;1.6;Plano;0;Si
+58;0;angina atípica;120;340;0;anomalía de la onda;172;No;0;Descendente;0;Si
+66;0;dolor no anginoso;150;226;0;anomalía de la onda;114;No;2.6;Ascendente;0;Si
+43;1;asintomático;150;247;0;anomalía de la onda;171;No;1.5;Descendente;0;Si
+69;0;dolor no anginoso;140;239;0;anomalía de la onda;151;No;1.8;Descendente;2;Si
+59;1;asintomático;135;234;0;anomalía de la onda;161;No;0.5;Plano;0;Si
+44;1;angina atípica;130;233;0;anomalía de la onda;179;Si;0.4;Descendente;0;Si
+42;1;asintomático;140;226;0;anomalía de la onda;178;No;0;Descendente;0;Si
+61;1;angina atípica;150;243;1;anomalía de la onda;137;Si;1;Plano;0;Si
+40;1;dolor no anginoso;140;199;0;anomalía de la onda;178;Si;1.4;Descendente;0;Si
+71;0;angina típica;160;302;0;anomalía de la onda;162;No;0.4;Descendente;2;Si
+59;1;angina atípica;150;212;1;anomalía de la onda;157;No;1.6;Descendente;0;Si
+51;1;angina atípica;110;175;0;anomalía de la onda;123;No;0.6;Descendente;0;Si
+65;0;angina atípica;140;417;1;normal;157;No;0.8;Descendente;1;Si
+53;1;angina atípica;130;197;1;normal;152;No;1.2;Ascendente;0;Si
+41;0;angina típica;105;198;0;anomalía de la onda;168;No;0;Descendente;1;Si
+65;1;asintomático;120;177;0;anomalía de la onda;140;No;0.4;Descendente;0;Si
+44;1;angina típica;130;219;0;normal;188;No;0;Descendente;0;Si
+54;1;angina atípica;125;273;0;normal;152;No;0.5;Ascendente;1;Si
+51;1;dolor no anginoso;125;213;0;normal;125;Si;1.4;Descendente;1;Si
+46;0;angina atípica;142;177;0;normal;160;Si;1.4;Ascendente;0;Si
+54;0;angina atípica;135;304;1;anomalía de la onda;170;No;0;Descendente;0;Si
+54;1;angina atípica;150;232;0;normal;165;No;1.6;Descendente;0;Si
+65;0;angina atípica;155;269;0;anomalía de la onda;148;No;0.8;Descendente;0;Si
+65;0;angina atípica;160;360;0;normal;151;No;0.8;Descendente;0;Si
+51;0;angina atípica;140;308;0;normal;142;No;1.5;Descendente;1;Si
+48;1;angina típica;130;245;0;normal;180;No;0.2;Plano;0;Si
+45;1;asintomático;104;208;0;normal;148;Si;3;Plano;0;Si
+53;0;asintomático;130;264;0;normal;143;No;0.4;Plano;0;Si
+39;1;angina atípica;140;321;0;normal;182;No;0;Descendente;0;Si
+52;1;angina típica;120;325;0;anomalía de la onda;172;No;0.2;Descendente;0;Si
+44;1;angina atípica;140;235;0;normal;180;No;0;Descendente;0;Si
+47;1;angina atípica;138;257;0;normal;156;No;0;Descendente;0;Si
+53;0;angina atípica;128;216;0;normal;115;No;0;Descendente;0;Si
+53;0;asintomático;138;234;0;normal;160;No;0;Descendente;0;Si
+51;0;angina atípica;130;256;0;normal;149;No;0.5;Descendente;0;Si
+66;1;asintomático;120;302;0;normal;151;No;0.4;Plano;0;Si
+62;1;angina atípica;130;231;0;anomalía de la onda;146;No;1.8;Plano;3;Si
+44;0;angina atípica;108;141;0;anomalía de la onda;175;No;0.6;Plano;0;Si
+63;0;angina atípica;135;252;0;normal;172;No;0;Descendente;0;Si
+52;1;angina típica;134;201;0;anomalía de la onda;158;No;0.8;Descendente;1;Si
+48;1;asintomático;122;222;0;normal;186;No;0;Descendente;0;Si
+45;1;asintomático;115;260;0;normal;185;No;0;Descendente;0;Si
+34;1;dolor no anginoso;118;182;0;normal;174;No;0;Descendente;0;Si
+57;0;asintomático;128;303;0;normal;159;No;0;Descendente;1;Si
+71;0;angina atípica;110;265;1;normal;130;No;0;Descendente;1;Si
+54;1;angina típica;108;309;0;anomalía de la onda;156;No;0;Descendente;0;Si
+52;1;dolor no anginoso;118;186;0;normal;190;No;0;Plano;0;Si
+41;1;angina típica;135;203;0;anomalía de la onda;132;No;0;Plano;0;Si
+58;1;angina atípica;140;211;1;normal;165;No;0;Descendente;0;Si
+35;0;asintomático;138;183;0;anomalía de la onda;182;No;1.4;Descendente;0;Si
+51;1;angina atípica;100;222;0;anomalía de la onda;143;Si;1.2;Plano;0;Si
+45;0;angina típica;130;234;0;normal;175;No;0.6;Plano;0;Si
+44;1;angina típica;120;220;0;anomalía de la onda;170;No;0;Descendente;0;Si
+62;0;asintomático;124;209;0;anomalía de la onda;163;No;0;Descendente;0;Si
+54;1;angina atípica;120;258;0;normal;147;No;0.4;Plano;0;Si
+51;1;angina atípica;94;227;0;anomalía de la onda;154;Si;0;Descendente;1;Si
+29;1;angina típica;130;204;0;normal;202;No;0;Descendente;0;Si
+51;1;asintomático;140;261;0;normal;186;Si;0;Descendente;0;Si
+43;0;angina atípica;122;213;0;anomalía de la onda;165;No;0.2;Plano;0;Si
+55;0;angina típica;135;250;0;normal;161;No;1.4;Plano;0;Si
+51;1;angina atípica;125;245;1;normal;166;No;2.4;Plano;0;Si
+59;1;angina típica;140;221;0;anomalía de la onda;164;Si;0;Descendente;0;Si
+52;1;angina típica;128;205;1;anomalía de la onda;184;No;0;Descendente;0;Si
+58;1;angina atípica;105;240;0;normal;154;Si;0.6;Plano;0;Si
+41;1;angina atípica;112;250;0;anomalía de la onda;179;No;0;Descendente;0;Si
+45;1;angina típica;128;308;0;normal;170;No;0;Descendente;0;Si
+60;0;angina atípica;102;318;0;anomalía de la onda;160;No;0;Descendente;1;Si
+52;1;dolor no anginoso;152;298;1;anomalía de la onda;178;No;1.2;Plano;0;Si
+42;0;asintomático;102;265;0;normal;122;No;0.6;Plano;0;Si
+67;0;angina atípica;115;564;0;normal;160;No;1.6;Plano;0;Si
+68;1;angina atípica;118;277;0;anomalía de la onda;151;No;1;Descendente;1;Si
+46;1;angina típica;101;197;1;anomalía de la onda;156;No;0;Descendente;0;Si
+54;0;angina atípica;110;214;0;anomalía de la onda;158;No;1.6;Plano;0;Si
+58;0;asintomático;100;248;0;normal;122;No;1;Plano;0;Si
+48;1;angina atípica;124;255;1;anomalía de la onda;175;No;0;Descendente;2;Si
+57;1;asintomático;132;207;0;anomalía de la onda;168;Si;0;Descendente;0;Si
+52;1;angina atípica;138;223;0;anomalía de la onda;169;No;0;Descendente;4;Si
+54;0;angina típica;132;288;1;normal;159;Si;0;Descendente;1;Si
+45;0;angina típica;112;160;0;anomalía de la onda;138;No;0;Plano;0;Si
+53;1;asintomático;142;226;0;normal;111;Si;0;Descendente;0;Si
+62;0;asintomático;140;394;0;normal;157;No;1.2;Plano;0;Si
+52;1;asintomático;108;233;1;anomalía de la onda;147;No;0.1;Descendente;3;Si
+43;1;angina atípica;130;315;0;anomalía de la onda;162;No;1.9;Descendente;1;Si
+53;1;angina atípica;130;246;1;normal;173;No;0;Descendente;3;Si
+42;1;dolor no anginoso;148;244;0;normal;178;No;0.8;Descendente;2;Si
+59;1;dolor no anginoso;178;270;0;normal;145;No;4.2;Ascendente;0;Si
+63;0;angina típica;140;195;0;anomalía de la onda;179;No;0;Descendente;2;Si
+42;1;angina atípica;120;240;1;anomalía de la onda;194;No;0.8;Ascendente;0;Si
+50;1;angina atípica;129;196;0;anomalía de la onda;163;No;0;Descendente;0;Si
+68;0;angina atípica;120;211;0;normal;115;No;1.5;Plano;0;Si
+69;1;dolor no anginoso;160;234;1;normal;131;No;0.1;Plano;1;Si
+45;0;asintomático;138;236;0;normal;152;Si;0.2;Plano;0;Si
+50;0;angina típica;120;244;0;anomalía de la onda;162;No;1.1;Descendente;0;Si
+50;0;asintomático;110;254;0;normal;159;No;0;Descendente;0;Si
+64;0;asintomático;180;325;0;anomalía de la onda;154;Si;0;Descendente;0;Si
+57;1;angina atípica;150;126;1;anomalía de la onda;173;No;0.2;Descendente;1;Si
+64;0;angina atípica;140;313;0;anomalía de la onda;133;No;0.2;Descendente;0;Si
+43;1;asintomático;110;211;0;anomalía de la onda;161;No;0;Descendente;0;Si
+55;1;angina típica;130;262;0;anomalía de la onda;155;No;0;Descendente;0;Si
+37;0;angina atípica;120;215;0;anomalía de la onda;170;No;0;Descendente;0;Si
+41;1;angina atípica;130;214;0;normal;168;No;2;Plano;0;Si
+56;1;dolor no anginoso;120;193;0;normal;162;No;1.9;Plano;0;Si
+46;0;angina típica;105;204;0;anomalía de la onda;172;No;0;Descendente;0;Si
+46;0;asintomático;138;243;0;normal;152;Si;0;Plano;0;Si
+64;0;asintomático;130;303;0;anomalía de la onda;122;No;2;Plano;2;Si
+59;1;asintomático;138;271;0;normal;182;No;0;Descendente;0;Si
+41;0;angina atípica;112;268;0;normal;172;Si;0;Descendente;0;Si
+54;0;angina atípica;108;267;0;normal;167;No;0;Descendente;0;Si
+39;0;angina atípica;94;199;0;anomalía de la onda;179;No;0;Descendente;0;Si
+34;0;angina típica;118;210;0;anomalía de la onda;192;No;0.7;Descendente;0;Si
+47;1;asintomático;112;204;0;anomalía de la onda;143;No;0.1;Descendente;0;Si
+67;0;angina atípica;152;277;0;anomalía de la onda;172;No;0;Descendente;1;Si
+52;0;angina atípica;136;196;0;normal;169;No;0.1;Plano;0;Si
+74;0;angina típica;120;269;0;normal;121;Si;0.2;Descendente;1;Si
+54;0;angina atípica;160;201;0;anomalía de la onda;163;No;0;Descendente;1;Si
+49;0;angina típica;134;271;0;anomalía de la onda;162;No;0;Plano;0;Si
+42;1;angina típica;120;295;0;anomalía de la onda;162;No;0;Descendente;0;Si
+41;1;angina típica;110;235;0;anomalía de la onda;153;No;0;Descendente;0;Si
+41;0;angina típica;126;306;0;anomalía de la onda;163;No;0;Descendente;0;Si
+49;0;asintomático;130;269;0;anomalía de la onda;163;No;0;Descendente;0;Si
+60;0;angina atípica;120;178;1;anomalía de la onda;96;No;0;Descendente;0;Si
+62;1;angina típica;128;208;1;normal;140;No;0;Descendente;0;Si
+57;1;asintomático;110;201;0;anomalía de la onda;126;Si;1.5;Plano;0;Si
+64;1;asintomático;128;263;0;anomalía de la onda;105;Si;0.2;Plano;1;Si
+51;0;angina atípica;120;295;0;normal;157;No;0.6;Descendente;0;Si
+43;1;asintomático;115;303;0;anomalía de la onda;181;No;1.2;Plano;0;Si
+42;0;angina atípica;120;209;0;anomalía de la onda;173;No;0;Plano;0;Si
+67;0;asintomático;106;223;0;anomalía de la onda;142;No;0.3;Descendente;2;Si
+76;0;angina atípica;140;197;0;hipertrofia ventricular izquierda;116;No;1.1;Plano;0;Si
+70;1;angina típica;156;245;0;normal;143;No;0;Descendente;0;Si
+44;0;angina atípica;118;242;0;anomalía de la onda;149;No;0.3;Plano;1;Si
+60;0;dolor no anginoso;150;240;0;anomalía de la onda;171;No;0.9;Descendente;0;Si
+44;1;angina atípica;120;226;0;anomalía de la onda;169;No;0;Descendente;0;Si
+42;1;angina atípica;130;180;0;anomalía de la onda;150;No;0;Descendente;0;Si
+66;1;asintomático;160;228;0;normal;138;No;2.3;Descendente;0;Si
+71;0;asintomático;112;149;0;anomalía de la onda;125;No;1.6;Plano;0;Si
+64;1;dolor no anginoso;170;227;0;normal;155;No;0.6;Plano;0;Si
+66;0;angina atípica;146;278;0;normal;152;No;0;Plano;1;Si
+39;0;angina atípica;138;220;0;anomalía de la onda;152;No;0;Plano;0;Si
+58;0;asintomático;130;197;0;anomalía de la onda;131;No;0.6;Plano;0;Si
+47;1;angina atípica;130;253;0;anomalía de la onda;179;No;0;Descendente;0;Si
+35;1;angina típica;122;192;0;anomalía de la onda;174;No;0;Descendente;0;Si
+58;1;angina típica;125;220;0;anomalía de la onda;144;No;0.4;Plano;4;Si
+56;1;angina típica;130;221;0;normal;163;No;0;Descendente;0;Si
+56;1;angina típica;120;240;0;anomalía de la onda;169;No;0;Ascendente;0;Si
+55;0;angina típica;132;342;0;anomalía de la onda;166;No;1.2;Descendente;0;Si
+41;1;angina típica;120;157;0;anomalía de la onda;182;No;0;Descendente;0;Si
+38;1;angina atípica;138;175;0;anomalía de la onda;173;No;0;Descendente;4;Si
+38;1;angina atípica;138;175;0;anomalía de la onda;173;No;0;Descendente;4;Si
+67;1;asintomático;160;286;0;normal;108;Si;1.5;Plano;3;No
+67;1;asintomático;120;229;0;normal;129;Si;2.6;Plano;2;No
+62;0;asintomático;140;268;0;normal;160;No;3.6;Ascendente;2;No
+63;1;asintomático;130;254;0;normal;147;No;1.4;Plano;1;No
+53;1;asintomático;140;203;1;normal;155;Si;3.1;Ascendente;0;No
+56;1;angina atípica;130;256;1;normal;142;Si;0.6;Plano;1;No
+48;1;angina típica;110;229;0;anomalía de la onda;168;No;1;Ascendente;0;No
+58;1;angina típica;120;284;0;normal;160;No;1.8;Plano;0;No
+58;1;angina atípica;132;224;0;normal;173;No;3.2;Descendente;2;No
+60;1;asintomático;130;206;0;normal;132;Si;2.4;Plano;2;No
+40;1;asintomático;110;167;0;normal;114;Si;2;Plano;0;No
+60;1;asintomático;117;230;1;anomalía de la onda;160;Si;1.4;Descendente;2;No
+64;1;angina atípica;140;335;0;anomalía de la onda;158;No;0;Descendente;0;No
+43;1;asintomático;120;177;0;normal;120;Si;2.5;Plano;0;No
+57;1;asintomático;150;276;0;normal;112;Si;0.6;Plano;1;No
+55;1;asintomático;132;353;0;anomalía de la onda;132;Si;1.2;Plano;1;No
+65;0;asintomático;150;225;0;normal;114;No;1;Plano;3;No
+61;0;asintomático;130;330;0;normal;169;No;0;Descendente;0;No
+58;1;angina atípica;112;230;0;normal;165;No;2.5;Plano;1;No
+50;1;asintomático;150;243;0;normal;128;No;2.6;Plano;0;No
+44;1;asintomático;112;290;0;normal;153;No;0;Descendente;1;No
+60;1;asintomático;130;253;0;anomalía de la onda;144;Si;1.4;Descendente;1;No
+54;1;asintomático;124;266;0;normal;109;Si;2.2;Plano;1;No
+50;1;angina atípica;140;233;0;anomalía de la onda;163;No;0.6;Plano;1;No
+41;1;asintomático;110;172;0;normal;158;No;0;Descendente;0;No
+51;0;asintomático;130;305;0;anomalía de la onda;142;Si;1.2;Plano;0;No
+58;1;asintomático;128;216;0;normal;131;Si;2.2;Plano;3;No
+54;1;asintomático;120;188;0;anomalía de la onda;113;No;1.4;Plano;1;No
+60;1;asintomático;145;282;0;normal;142;Si;2.8;Plano;2;No
+60;1;angina atípica;140;185;0;normal;155;No;3;Plano;0;No
+59;1;asintomático;170;326;0;normal;140;Si;3.4;Ascendente;0;No
+46;1;angina atípica;150;231;0;anomalía de la onda;147;No;3.6;Plano;0;No
+67;1;asintomático;125;254;1;anomalía de la onda;163;No;0.2;Plano;2;No
+62;1;asintomático;120;267;0;anomalía de la onda;99;Si;1.8;Plano;2;No
+65;1;asintomático;110;248;0;normal;158;No;0.6;Descendente;2;No
+44;1;asintomático;110;197;0;normal;177;No;0;Descendente;1;No
+60;1;asintomático;125;258;0;normal;141;Si;2.8;Plano;1;No
+58;1;asintomático;150;270;0;normal;111;Si;0.8;Descendente;0;No
+68;1;angina atípica;180;274;1;normal;150;Si;1.6;Plano;0;No
+62;0;asintomático;160;164;0;normal;145;No;6.2;Ascendente;3;No
+52;1;asintomático;128;255;0;anomalía de la onda;161;Si;0;Descendente;1;No
+59;1;asintomático;110;239;0;normal;142;Si;1.2;Plano;1;No
+60;0;asintomático;150;258;0;normal;157;No;2.6;Plano;2;No
+49;1;angina atípica;120;188;0;anomalía de la onda;139;No;2;Plano;3;No
+59;1;asintomático;140;177;0;anomalía de la onda;162;Si;0;Descendente;1;No
+57;1;angina atípica;128;229;0;normal;150;No;0.4;Plano;1;No
+61;1;asintomático;120;260;0;anomalía de la onda;140;Si;3.6;Plano;1;No
+39;1;asintomático;118;219;0;anomalía de la onda;140;No;1.2;Plano;0;No
+61;0;asintomático;145;307;0;normal;146;Si;1;Plano;0;No
+56;1;asintomático;125;249;1;normal;144;Si;1.2;Plano;1;No
+43;0;asintomático;132;341;1;normal;136;Si;3;Plano;0;No
+62;0;angina atípica;130;263;0;anomalía de la onda;97;No;1.2;Plano;1;No
+63;1;asintomático;130;330;1;normal;132;Si;1.8;Descendente;3;No
+65;1;asintomático;135;254;0;normal;127;No;2.8;Plano;1;No
+48;1;asintomático;130;256;1;normal;150;Si;0;Descendente;2;No
+63;0;asintomático;150;407;0;normal;154;No;4;Plano;3;No
+55;1;asintomático;140;217;0;anomalía de la onda;111;Si;5.6;Ascendente;0;No
+65;1;dolor no anginoso;138;282;1;normal;174;No;1.4;Plano;1;No
+56;0;asintomático;200;288;1;normal;133;Si;4;Ascendente;2;No
+54;1;asintomático;110;239;0;anomalía de la onda;126;Si;2.8;Plano;1;No
+70;1;asintomático;145;174;0;anomalía de la onda;125;Si;2.6;Ascendente;0;No
+62;1;angina típica;120;281;0;normal;103;No;1.4;Plano;1;No
+35;1;asintomático;120;198;0;anomalía de la onda;130;Si;1.6;Plano;0;No
+59;1;dolor no anginoso;170;288;0;normal;159;No;0.2;Plano;0;No
+64;1;angina atípica;125;309;0;anomalía de la onda;131;Si;1.8;Plano;0;No
+47;1;angina atípica;108;243;0;anomalía de la onda;152;No;0;Descendente;0;No
+57;1;asintomático;165;289;1;normal;124;No;1;Plano;3;No
+55;1;asintomático;160;289;0;normal;145;Si;0.8;Plano;1;No
+64;1;asintomático;120;246;0;normal;96;Si;2.2;Ascendente;1;No
+70;1;asintomático;130;322;0;normal;109;No;2.4;Plano;3;No
+51;1;asintomático;140;299;0;anomalía de la onda;173;Si;1.6;Descendente;0;No
+58;1;asintomático;125;300;0;normal;171;No;0;Descendente;2;No
+60;1;asintomático;140;293;0;normal;170;No;1.2;Plano;2;No
+77;1;asintomático;125;304;0;normal;162;Si;0;Descendente;3;No
+35;1;asintomático;126;282;0;normal;156;Si;0;Descendente;0;No
+70;1;angina atípica;160;269;0;anomalía de la onda;112;Si;2.9;Plano;1;No
+59;0;asintomático;174;249;0;anomalía de la onda;143;Si;0;Plano;0;No
+64;1;asintomático;145;212;0;normal;132;No;2;Plano;2;No
+57;1;asintomático;152;274;0;anomalía de la onda;88;Si;1.2;Plano;1;No
+56;1;asintomático;132;184;0;normal;105;Si;2.1;Plano;1;No
+48;1;asintomático;124;274;0;normal;166;No;0.5;Plano;0;No
+56;0;asintomático;134;409;0;normal;150;Si;1.9;Plano;2;No
+66;1;angina típica;160;246;0;anomalía de la onda;120;Si;0;Plano;3;No
+54;1;angina típica;192;283;0;normal;195;No;0;Descendente;1;No
+69;1;angina atípica;140;254;0;normal;146;No;2;Plano;3;No
+51;1;asintomático;140;298;0;anomalía de la onda;122;Si;4.2;Plano;3;No
+43;1;asintomático;132;247;1;normal;143;Si;0.1;Plano;4;No
+62;0;asintomático;138;294;1;anomalía de la onda;106;No;1.9;Plano;3;No
+67;1;asintomático;100;299;0;normal;125;Si;0.9;Plano;2;No
+59;1;dolor no anginoso;160;273;0;normal;125;No;0;Descendente;0;No
+45;1;asintomático;142;309;0;normal;147;Si;0;Plano;3;No
+58;1;asintomático;128;259;0;normal;130;Si;3;Plano;2;No
+50;1;asintomático;144;200;0;normal;126;Si;0.9;Plano;0;No
+62;0;asintomático;150;244;0;anomalía de la onda;154;Si;1.4;Plano;0;No
+38;1;dolor no anginoso;120;231;0;anomalía de la onda;182;Si;3.8;Plano;0;No
+66;0;asintomático;178;228;1;anomalía de la onda;165;Si;1;Plano;2;No
+52;1;asintomático;112;230;0;anomalía de la onda;160;No;0;Descendente;1;No
+53;1;asintomático;123;282;0;anomalía de la onda;95;Si;2;Plano;2;No
+63;0;asintomático;108;269;0;anomalía de la onda;169;Si;1.8;Plano;2;No
+54;1;asintomático;110;206;0;normal;108;Si;0;Plano;1;No
+66;1;asintomático;112;212;0;normal;132;Si;0.1;Descendente;1;No
+55;0;asintomático;180;327;0;hipertrofia ventricular izquierda;117;Si;3.4;Plano;0;No
+49;1;angina atípica;118;149;0;normal;126;No;0.8;Descendente;3;No
+54;1;asintomático;122;286;0;normal;116;Si;3.2;Plano;2;No
+56;1;asintomático;130;283;1;normal;103;Si;1.6;Ascendente;0;No
+46;1;asintomático;120;249;0;normal;144;No;0.8;Descendente;0;No
+61;1;dolor no anginoso;134;234;0;anomalía de la onda;145;No;2.6;Plano;2;No
+67;1;asintomático;120;237;0;anomalía de la onda;71;No;1;Plano;0;No
+58;1;asintomático;100;234;0;anomalía de la onda;156;No;0.1;Descendente;1;No
+47;1;asintomático;110;275;0;normal;118;Si;1;Plano;1;No
+52;1;asintomático;125;212;0;anomalía de la onda;168;No;1;Descendente;2;No
+58;1;asintomático;146;218;0;anomalía de la onda;105;No;2;Plano;1;No
+57;1;angina típica;124;261;0;anomalía de la onda;141;No;0.3;Descendente;0;No
+58;0;angina típica;136;319;1;normal;152;No;0;Descendente;2;No
+61;1;asintomático;138;166;0;normal;125;Si;3.6;Plano;1;No
+42;1;asintomático;136;315;0;anomalía de la onda;125;Si;1.8;Plano;0;No
+52;1;asintomático;128;204;1;anomalía de la onda;156;Si;1;Plano;0;No
+59;1;angina atípica;126;218;1;anomalía de la onda;134;No;2.2;Plano;1;No
+40;1;asintomático;152;223;0;anomalía de la onda;181;No;0;Descendente;0;No
+61;1;asintomático;140;207;0;normal;138;Si;1.9;Descendente;1;No
+46;1;asintomático;140;311;0;anomalía de la onda;120;Si;1.8;Plano;2;No
+59;1;dolor no anginoso;134;204;0;anomalía de la onda;162;No;0.8;Descendente;2;No
+57;1;angina típica;154;232;0;normal;164;No;0;Descendente;1;No
+57;1;asintomático;110;335;0;anomalía de la onda;143;Si;3;Plano;1;No
+55;0;asintomático;128;205;0;hipertrofia ventricular izquierda;130;Si;2;Plano;1;No
+61;1;asintomático;148;203;0;anomalía de la onda;161;No;0;Descendente;1;No
+58;1;asintomático;114;318;0;hipertrofia ventricular izquierda;140;No;4.4;Ascendente;3;No
+58;0;asintomático;170;225;1;normal;146;Si;2.8;Plano;2;No
+67;1;angina atípica;152;212;0;normal;150;No;0.8;Plano;0;No
+44;1;asintomático;120;169;0;anomalía de la onda;144;Si;2.8;Ascendente;0;No
+63;1;asintomático;140;187;0;normal;144;Si;4;Descendente;2;No
+63;0;asintomático;124;197;0;anomalía de la onda;136;Si;0;Plano;0;No
+59;1;asintomático;164;176;1;normal;90;No;1;Plano;2;No
+57;0;asintomático;140;241;0;anomalía de la onda;123;Si;0.2;Plano;0;No
+45;1;dolor no anginoso;110;264;0;anomalía de la onda;132;No;1.2;Plano;0;No
+68;1;asintomático;144;193;1;anomalía de la onda;141;No;3.4;Plano;2;No
+57;1;asintomático;130;131;0;anomalía de la onda;115;Si;1.2;Plano;1;No
+57;0;angina típica;130;236;0;normal;174;No;0;Plano;1;No
